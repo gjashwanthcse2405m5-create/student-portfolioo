@@ -92,14 +92,5 @@ A fitness website that calculates calories, BMI, protein, carbohydrates, fats, a
 * **LinkedIn:** [Add your LinkedIn profile]
 * **Email:** [Add your email]
 
----
-
-> 💡 *"Learning today, building tomorrow."*
-
----
-
-⭐ If you find my projects interesting, feel free to explore my repositories!
-
----
 
 <!-- Thank you for visiting my portfolio! -->
